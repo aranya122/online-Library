@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-image:url(https://www.scisdata.com/media/1333/scis_bl0417_2_119.jpg)
+}
